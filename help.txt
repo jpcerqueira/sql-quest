@@ -1,0 +1,2 @@
+Comando para criar um novo arquivo via powershell
+New-Item -Path "x.sql" -ItemType File
